@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lurdenx-max/hahhmat/static/css/main.e6c13ad2.css",
+    "main.js": "/lurdenx-max/hahhmat/static/js/main.aa33a460.js",
+    "static/js/453.510ed9e1.chunk.js": "/lurdenx-max/hahhmat/static/js/453.510ed9e1.chunk.js",
+    "index.html": "/lurdenx-max/hahhmat/index.html",
+    "main.e6c13ad2.css.map": "/lurdenx-max/hahhmat/static/css/main.e6c13ad2.css.map",
+    "main.aa33a460.js.map": "/lurdenx-max/hahhmat/static/js/main.aa33a460.js.map",
+    "453.510ed9e1.chunk.js.map": "/lurdenx-max/hahhmat/static/js/453.510ed9e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa33a460.js"
+  ]
+}
